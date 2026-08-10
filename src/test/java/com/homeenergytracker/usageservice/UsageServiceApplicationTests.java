@@ -1,4 +1,4 @@
-package com.springtutorials.usageservice;
+package com.homeenergytracker.usageservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
